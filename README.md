@@ -28,7 +28,7 @@ It allows you to add, search, filter, sort, and group contacts.
 
 # 📸 Screenshots
 
-| 🌡️ |
+| 📒 |
 |-----|
 | ![Screenshot](./contact.png) |
 
