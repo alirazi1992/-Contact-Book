@@ -1,0 +1,14 @@
+C:\Users\a.razi\source\repos\ContactBook\ContactBook\bin\Debug\net8.0\ContactBook.exe
+C:\Users\a.razi\source\repos\ContactBook\ContactBook\bin\Debug\net8.0\ContactBook.deps.json
+C:\Users\a.razi\source\repos\ContactBook\ContactBook\bin\Debug\net8.0\ContactBook.runtimeconfig.json
+C:\Users\a.razi\source\repos\ContactBook\ContactBook\bin\Debug\net8.0\ContactBook.dll
+C:\Users\a.razi\source\repos\ContactBook\ContactBook\bin\Debug\net8.0\ContactBook.pdb
+C:\Users\a.razi\source\repos\ContactBook\ContactBook\obj\Debug\net8.0\ContactBook.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\a.razi\source\repos\ContactBook\ContactBook\obj\Debug\net8.0\ContactBook.AssemblyInfoInputs.cache
+C:\Users\a.razi\source\repos\ContactBook\ContactBook\obj\Debug\net8.0\ContactBook.AssemblyInfo.cs
+C:\Users\a.razi\source\repos\ContactBook\ContactBook\obj\Debug\net8.0\ContactBook.csproj.CoreCompileInputs.cache
+C:\Users\a.razi\source\repos\ContactBook\ContactBook\obj\Debug\net8.0\ContactBook.dll
+C:\Users\a.razi\source\repos\ContactBook\ContactBook\obj\Debug\net8.0\refint\ContactBook.dll
+C:\Users\a.razi\source\repos\ContactBook\ContactBook\obj\Debug\net8.0\ContactBook.pdb
+C:\Users\a.razi\source\repos\ContactBook\ContactBook\obj\Debug\net8.0\ContactBook.genruntimeconfig.cache
+C:\Users\a.razi\source\repos\ContactBook\ContactBook\obj\Debug\net8.0\ref\ContactBook.dll
